@@ -21,3 +21,5 @@ OLED Display
 - GND : GND
 - SDA : A4
 - SCL : A5
+
+<img width="4800" height="3360" alt="ESP32-DevkitV1 Datasheet" src="https://github.com/user-attachments/assets/7af2dd01-2940-460e-88f9-679f4771eb3e" />
