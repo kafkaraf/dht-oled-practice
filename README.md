@@ -10,12 +10,13 @@ Tools yang digunakan :
 - Breadboard + Jumper (Male to Female)
 
 Wiring & Pin :
-- DHT11
-  • (+) :
-  • (-) :
-  • Out :
-- OLED Display
-  • VCC : 
-  • GND : 
-  • SDA : 
-  • SCL :
+DHT11
+- (+) : (hubungkan ke 5V atau 3.3V, tergantung board)
+- (-) : GND
+- Out : Pin D15
+  
+OLED Display
+- VCC : 5V
+- GND : GND
+- SDA : A4
+- SCL : A5
