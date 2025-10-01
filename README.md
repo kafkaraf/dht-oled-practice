@@ -9,7 +9,7 @@ Dengan menampilkan data ke OLED 0.96" atau menyalakan buzzer saat ambang tertent
 - Display OLED 0.96 (Yellow)
 - Breadboard + Jumper (Male to Female)
 
-Wiring & Pin :
+**Wiring & Pin :**
 DHT11
 - (+) : (hubungkan ke 5V atau 3.3V, tergantung board)
 - (-) : GND
