@@ -11,4 +11,11 @@ Tools yang digunakan :
 
 Wiring & Pin :
 - DHT11
-  • 
+  • (+) :
+  • (-) :
+  • Out :
+- OLED Display
+  • VCC : 
+  • GND : 
+  • SDA : 
+  • SCL :
