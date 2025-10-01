@@ -10,6 +10,7 @@ Dengan menampilkan data ke OLED 0.96" atau menyalakan buzzer saat ambang tertent
 - Breadboard + Jumper (Male to Female)
 
 **Wiring & Pin :**
+
 DHT11
 - (+) : (hubungkan ke 5V atau 3.3V, tergantung board)
 - (-) : GND
