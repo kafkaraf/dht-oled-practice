@@ -22,4 +22,8 @@ OLED Display
 - SDA : A4
 - SCL : A5
 
+ESP32 DevkitV1 Datasheet :
 <img width="4800" height="3360" alt="ESP32-DevkitV1 Datasheet" src="https://github.com/user-attachments/assets/7af2dd01-2940-460e-88f9-679f4771eb3e" />
+
+Dokumentasi :
+![DHT11-OLED](https://github.com/user-attachments/assets/818c63f6-c70a-42c0-85ac-2e37be1daa20)
